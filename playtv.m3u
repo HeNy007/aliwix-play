@@ -3,7 +3,7 @@
 #################################################################################
 
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/animal_planet.png" group-title="Documentarios",Ramallah HD
-http://istars.pro:80/istar0505417282/smLGOdcc37/119967 
+http://istars.pro:80/live/istar0505417282/smLGOdcc37/119967.ts
 
 #EXTINF:-1 tvg-id="Animal Planet SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/animal_planet.png" group-title="Documentarios",Animal Planet SD
 http://iptvbrasil1.ddns.net:8080/live/play/play/51.ts
