@@ -2,8 +2,8 @@
 
 #################################################################################
 
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/animal_planet.png" group-title="Documentarios",Animal Planet HD
-https://edge-1192-ch-gv.filmon.com/live/4121.high.stream/playlist.m3u8 
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/animal_planet.png" group-title="Documentarios",Ramallah HD
+https://streamer.clickadia.ps/halaramallah/tracks-v1a1/mono.m3u8 
 
 #EXTINF:-1 tvg-id="Animal Planet SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/animal_planet.png" group-title="Documentarios",Animal Planet SD
 http://iptvbrasil1.ddns.net:8080/live/play/play/51.ts
