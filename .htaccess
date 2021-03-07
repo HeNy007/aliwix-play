@@ -1,4 +1,4 @@
 AuthType Basic
-AuthName "wiki"
+AuthName "AliwixPlay"
 AuthUserFile /path/.htpasswd
 Require valid-user
