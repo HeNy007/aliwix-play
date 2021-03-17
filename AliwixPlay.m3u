@@ -3,8 +3,8 @@
 
 #################################################################################
 
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/animal_planet.png" group-title="documentary",🇫🇷 2HD
-https://www.aloussports.ga/m3u8/Twitch.m3u8?v=aloussports
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/animal_planet.png" group-title="documentary",🇫🇷 sportHD
+http://138.201.187.8/upload/images/logo02.m3u8
 
 #EXTINF:-1 tvg-id="Animal Planet SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/animal_planet.png" group-title="documentary",Animal Planet SD
 http://iptvbrasil1.ddns.net:8080/live/play/play/51.ts
