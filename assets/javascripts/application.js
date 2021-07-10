@@ -7,7 +7,7 @@ width:"100%",height:"100%",
   hideVolumeBar: true, 
   maxBufferLength: "20",
   mediacontrol: {seekbar: "#FF00FF", buttons: "rgb(255,0,255)"}, 
-  watermark: "https://1.bp.blogspot.com/-RcWqkcNhNGE/YMP0d3OEG2I/AAAAAAAAM_s/8enH55tThiQ6Db9EbpyVmyxjaW4Z1BEuACLcBGAsYHQ/s300-rw-e90-w300/tv1.png", position : "top-right",       
+  watermark: "https://raw.githubusercontent.com/HeNy007/HeNy007.github.io/main/aliwixplay/20210710_123327.png", position : "top-right",       
   plugins: {'core': [LevelSelector]}, hlsjsConfig: {xhrSetup: function(xhr, url) { xhr.withCredentials = false;}},playbackConfig: {crossorigin: 'use-credentials', },
   events:{onError:function(e){playError()},onReady:function(e){if(this.getVolume()==0){unmuteBtn.style.display="block"}},onVolumeUpdate:function(e){if(this.getVolume()>0){unmuteBtn.style.display="none"}else{unmuteBtn.style.display="block"}}},});
   function playError(){var delay=initialDelay;clearInterval(timer);timer=setInterval(function(){var messageElement=document.getElementById("error-message");delay-=1;if(delay){messageElement.querySelector("span").innerHTML=delay;messageElement.style.display="block"}else{clearInterval(timer);messageElement.style.display="none";
