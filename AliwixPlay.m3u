@@ -8,67 +8,6 @@ http://138.201.187.8/upload/images/logo02.m3u8
 
 
 #################################################################################
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bit.ly/2CDKh6w" group-title="sports", BEINSPORTS MAX 1 HD
-http://1.adnaraoun.xyz/live/6262622200/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bit.ly/2CDKh6w" group-title="sports", BEINSPORTS MAX 1 HD
-http://d.youminour.xyz/live/6262622200/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2UJyFbx" group-title="sports", BEINSPORTS MAX 2 HD
-http://1.adnaraoun.xyz/live/331210000/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2UJyFbx" group-title="sports", BEINSPORTS MAX 2 HD
-http://gog.daroudaraw.xyz/live/331210000/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3w0EFJG" group-title="sports", BEINSPORTS MAX 5 HD
-http://1.adnaraoun.xyz/live/0679877700/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3w0EFJG" group-title="sports", BEINSPORTS MAX 5 HD
-http://c.wshdkoura.xyz/live/0679877700/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3vXveuv" group-title="sports", BEINSPORTS MAX 6 HD
-http://1.adnaraoun.xyz/live/790006600/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3vXveuv" group-title="sports", BEINSPORTS MAX 6 HD
-http://d.youminour.xyz/live/790006600/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="sports",BeIN Sports 1 Premium HD
-https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="sports",BeIN Sports 2 Premium HD
-https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="sports",BeIN Sports 1 Premium SD
-https://ferrarico.referrari.com/live/60127_.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="sports",BeIN Sports 1 Premium HD
-https://ferrarico.referrari.com/live/60091_.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="sports",BeIN Sports 2 Premium HD
-https://ferrarico.referrari.com/live/60092_.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="sports",BeIN Sports 3 Premium HD
-https://ferrarico.referrari.com/live/60093_.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="sports",BeIN Sports 3 Premium SD
-https://ferrarico.referrari.com/live/60129_.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="sports",BeIN Sports 3 HD
-http://ferrarico.referrari.com/live/60122_.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="sports",BeIN Sports 1
-http://ferrarico.referrari.com/live/60096_.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="sports",BeIN Sports 2
-http://ferrarico.referrari.com/live/60097_.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="sports",BeIN Sports 3
-http://ferrarico.referrari.com/live/60098_.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="sports",BeIN Sports 4
-http://ferrarico.referrari.com/live/60099_.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="sports",BeIN Sports 5
-http://ferrarico.referrari.com/live/60136_.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports6.qa.png" group-title="sports",BeIN Sports 6
-http://ferrarico.referrari.com/live/60137_.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="sports",BeIN Sports 1 SD
-http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="sports",BeIN Sports 2 SD
-http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="sports",BeIN Sports 3 SD
-http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="sports",BeIN Sports 4 SD
-http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="sports",BeIN Sports 5 SD
-http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports6.qa.png" group-title="sports",BeIN Sports 6 SD
-http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports7.qa.png" group-title="sports",BeIN Sports 7 SD
-http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="sports",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
@@ -172,7 +111,7 @@ https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist
 
 #EXTINF:-1 tvg-language="Arabic" tvg-logo="https://i.imgur.com/H7D7dmK.png" group-title="arab",Al Istiqama TV
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
-#EXTINF:-1 tvg-id="Oman Sport ARB" tvg-name="Oman Sport ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/oman_sport.jpg" group-title="sports",Oman Sport
+#EXTINF:-1 tvg-id="Oman Sport ARB" tvg-name="Oman Sport ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/oman_sport.jpg" group-title="arab",Oman Sport
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/oman_tv.jpg" group-title="arab",Oman TV
 https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
@@ -336,7 +275,7 @@ https://streaming.najah.edu:8443/hls/AlNajah.m3u8
 http://htvmada.mada.ps:8888/maannews/index.m3u8
 #EXTINF:-1 tvg-language="Arabic" tvg-logo="https://i.imgur.com/PEFW4Vy.png" group-title="arab",MusawaChannel
 http://htvpalsat.mada.ps:8888/musawa/index.m3u8
-#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://i.imgur.com/EKGnd0S.png" group-title="arab",Orient Radio + Palestine Mubasher
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://i.imgur.com/EKGnd0S.png" group-title="arab",Orient Radio
 http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-language="Arabic" tvg-logo="https://i.imgur.com/bYz6HUG.png" group-title="arab",Palestine Mubasher
 http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
@@ -407,7 +346,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 #EXTINF:-1 tvg-id="SBC" tvg-name="SBC" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/sbc_saudi.jpg" group-title="arab",SBC 
 http://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=sbc_tv&v=2118839260
-#EXTINF:-1 tvg-id="Thikrayat Tv" tvg-name="Thikrayat Tv" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/thikrayat_tv.jpg" group-title="Classic",Thikrayat TV
+#EXTINF:-1 tvg-id="Thikrayat Tv" tvg-name="Thikrayat Tv" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/thikrayat_tv.jpg" group-title="arab",Thikrayat TV
 http://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=saudi_thikrayat&v=2069393303
 #EXTINF:-1 tvg-language="Arabic" tvg-logo="https://i.imgur.com/m5cc4g5.png" group-title="arab",22 TV
 http://82.212.74.99:8000/live/hls/8117.m3u8
@@ -436,12 +375,6 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Asharq.sa" tvg-name="Asharq" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://asharq.com/asharq-preview-logo.png" group-title="arab",Asharq
 https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
 
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 1 ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sport",Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 2 ARB" tvg-name="Abu Dhabi Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Sport",Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 3 ARB" tvg-name="Abu Dhabi Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="Sport",Abu Dhabi Sports 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi TV ARB" tvg-name="Abu Dhabi 1 ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/abudhabitv.jpg" group-title="arab",Abu Dhabi TV
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-language="Arabic" tvg-logo="https://i.imgur.com/6WiXPd9.png" group-title="arab",Al Aan TV
