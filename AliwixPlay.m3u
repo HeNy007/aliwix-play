@@ -31,7 +31,6 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
 #EXTINF:-1 tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" group-title="arab",MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
-
 #EXTINF:-1 tvg-id="RotanaCinemaHD.sa" tvg-name="Rotana Cinema HD" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/cinema-egypt.png?v=3" group-title="arab",Rotana Cinema HD
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
 #EXTINF:-1 tvg-id="RotanaCinemaHDKSA.sa" tvg-name="Rotana Cinema HD KSA" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/cinema.png" group-title="arab",Rotana Cinema HD KSA
@@ -46,34 +45,6 @@ https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
 #EXTINF:-1 tvg-id="RotanaPlus.sa" tvg-name="Rotana+" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/hd.png?v=3" group-title="arab",Rotana+ HD
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
-
-
-#EXTINF:-1 tvg-id="2M Monde" tvg-name="2M Monde ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/CwwRn4b.png" group-title="arab",2M Monde
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/index.m3u8
-#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZFHjIVU.png" group-title="arab",Al Aoula
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZFHjIVU.png" group-title="arab",Al Aoula Laayoune
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZlmQSBl.png" group-title="arab",Al Maghribia
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://i.imgur.com/liFebM9.png" group-title="arab",Arryadia
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://i.imgur.com/VQUrMjE.png" group-title="arab",Assadissa
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://i.imgur.com/FvgdLdG.png" group-title="arab",Athaqafia
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://i.imgur.com/uC6IF9P.png" group-title="arab",Tamazight
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://i.imgur.com/J7GdM3L.png" group-title="arab",M24 TV
-https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
-#EXTINF:-1 tvg-language="French" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="arab",Medi1 TV Maghreb
-https://5f72f3a9b06b7.streamlock.net/live/smil:medi1tv.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="arab",Medi1 TV Arabic
-https://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="arab",Medi1 TV Afrique
-https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="arab",Télé Maroc
-https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 
 
 
